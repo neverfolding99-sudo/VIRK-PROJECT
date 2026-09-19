@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html lang="da-DK"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>MitID Erhverv - MitID Erhverv</title>
+    <title>Virk - Virk.dk</title>
 
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=0, shrink-to-fit=no">
 
     <link rel="icon" type="image/x-icon" href="static/media/favicon.ico">
-    <meta name="description" content="MitID Erhverv er den offentlige digitale erhvervsløsning til virksomheder, foreninger og myndigheder i Danmark.">
+    <meta name="description" content="Virk er den offentlige digitale erhvervsløsning til virksomheder, foreninger og myndigheder i Danmark.">
 
 
 
@@ -112,7 +112,7 @@
 
                                 </div>
                                 <div class="bg-darkblue flex-basis-50 p-md-5 py-5 px-4">
-<a href="./login.php" title="Log på MitID Erhverv"><span style="font-size: 20px;">Log ind på MitID Erhverv</span></a>                                </div>
+<a href="./login.php" title="Log på Virk.dk"><span style="font-size: 20px;">Log ind på Virk Erhverv</span></a>                                </div>
 
                             </div>
                         </div>
@@ -245,7 +245,7 @@
         </div>
         <div class="col-lg-6 h-100">
             
-<h1>MitID Erhverv administrator</h1>
+<h1>Virk administrator</h1>
 <p style="padding-bottom: 20px;"><img src="static/media/hjemmearbejde-kvinde-bred-forside-smal.png" alt="" width="1400" height="600"></p>
 <p>Der er 3 forskellige administratorroller i MitID Erhverv:</p>
 <ul>
